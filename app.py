@@ -1,0 +1,1 @@
+from djangocrud.wsgi import application as app
